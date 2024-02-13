@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danil
-=============================================================================================================================
+<h1 align="center">Hi there, I'm <span color = "green">Daniil</span> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Вeginner Frontend Developer from Russia 🇷🇺</h3>
 
-Вeginner Frontend Developer
 ---------------------------
 
 * 🌍  I'm based in Russia, Krasnoyarsk
