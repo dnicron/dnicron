@@ -1,11 +1,9 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 <h2 align="center"> 👨‍💻 Who Am I?</h2>
 <p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>I am studying frontend development. I am walking towards the goal with confident steps. Through the thorns to the stars
   </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
 </p>
 
 ---
@@ -41,6 +39,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 </p>
 
@@ -68,13 +67,18 @@
 
 ---
 
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dnicron&theme=matrix
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dnicron"><img src="https://github-readme-stats.vercel.app/api?username=dnicron&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dnicron's GitHub stats" /></a>
-
-<a href="https://github.com/dnicron" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnicron&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnicron&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
