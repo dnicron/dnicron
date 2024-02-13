@@ -1,21 +1,12 @@
-<h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
-<p align="center"> (Open for Hiring)</p>
+![Header](./your-header-image-name.png)
 
-<h2 align="center"> 👨‍💻 Danil</h2>
+<h2 align="center"> 👨‍💻 Who Am I?</h2>
 <p align="center">
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
 </p>
-
----------------------------
-
-* 🌍  I'm based in Russia, Krasnoyarsk
-* ✉️  You can contact me at [dneecron@gmail.com](mailto:dneecron@gmail.com)
 
 ---
 
