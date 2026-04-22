@@ -14,9 +14,9 @@
 
 <div align="center">
 
-💥 I'm currently working on **a task manager**
+💥 I'm currently working on **a frontendResources**
 
-🧠 I'm currently learning **DOM, how the internet and the web work**
+🧠 I'm currently learning **how the internet and the web work**
 
   
 </div>
