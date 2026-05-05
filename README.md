@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,figma, postgres&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,figma,postgres&theme=dark"/>
     <img src="https://skillicons.dev/icons?i=vscode,arch,bash,docker,obsidian,powershell&theme=dark"/>
   </a>
 </div>
